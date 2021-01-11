@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -92,10 +92,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 708, y: 471}
-  m_MaxSize: {x: 18003, y: 14021}
+  m_MinSize: {x: 708, y: 492}
+  m_MaxSize: {x: 18003, y: 14042}
   vertical: 0
-  controlID: 140
+  controlID: 136
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -136,8 +136,8 @@ MonoBehaviour:
     y: 0
     width: 766
     height: 731
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -166,8 +166,8 @@ MonoBehaviour:
     y: 0
     width: 398
     height: 731
-  m_MinSize: {x: 232, y: 471}
-  m_MaxSize: {x: 10002, y: 14021}
+  m_MinSize: {x: 232, y: 492}
+  m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
   controlID: 59
 --- !u!114 &8
@@ -339,7 +339,7 @@ MonoBehaviour:
     height: 388
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
-    m_NameFilter: camera
+    m_NameFilter: 
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -351,20 +351,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - "Assets/\u7D20\u6750/FREE Food Pack/Prefabs"
+    - Assets/SteamVR
   m_ViewMode: 1
-  m_StartGridSize: 16
+  m_StartGridSize: 69
   m_LastFolders:
-  - "Assets/\u7D20\u6750/FREE Food Pack/Prefabs"
+  - Assets/SteamVR
   m_LastFoldersGridSize: 69
   m_LastProjectPath: C:\Users\user\Documents\ASIA_VR_End_107051365\VR_End_107051365
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
-    m_ExpandedIDs: 0000000012390000143900006a3900006e39000000ca9a3b
+    m_SelectedIDs: dc3e0000
+    m_LastClickedID: 16092
+    m_ExpandedIDs: 00000000823e0000843e0000e23e0000683f00002e410000384100007844000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -392,7 +392,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001239000014390000
+    m_ExpandedIDs: 00000000823e0000843e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -445,7 +445,7 @@ MonoBehaviour:
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
     m_ScrollPosition: {x: 0, y: 0}
-    m_GridSize: 16
+    m_GridSize: 69
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 150
 --- !u!114 &14
@@ -576,9 +576,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.71688294, y: 1.0199519, z: 1.4305824}
+    m_Target: {x: 0.24612637, y: 1.7256885, z: -1.547948}
     speed: 2
-    m_Value: {x: -0.71688294, y: 1.0199519, z: 1.4305824}
+    m_Value: {x: 0.24612637, y: 1.7256885, z: -1.547948}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -624,13 +624,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.22986044, y: 0.3048166, z: -0.07605911, w: -0.92128}
+    m_Target: {x: 0.12092771, y: 0.009789942, z: -0.0012980754, w: 0.9927727}
     speed: 2
-    m_Value: {x: -0.22982702, y: 0.3047723, z: -0.076048054, w: -0.92114604}
+    m_Value: {x: 0.11942117, y: 0.008301116, z: -0.001104046, w: 0.99280834}
   m_Size:
-    m_Target: 2.610359
+    m_Target: 0.7865729
     speed: 2
-    m_Value: 2.910359
+    m_Value: 1.0865729
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -683,10 +683,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 120}
-      m_SelectedIDs: 
+      scrollPos: {x: 0, y: 88}
+      m_SelectedIDs: 3a410000
       m_LastClickedID: 0
-      m_ExpandedIDs: 3ee3ffff40e3ffffc6e6ffffdae6ffffeae6ffff6cfbffff
+      m_ExpandedIDs: 6cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
